@@ -1,0 +1,239 @@
+#first{
+    .center{
+        display: flex;
+        justify-content: space-between;
+        a{
+            text-decoration: none;
+            font-size: 17px;
+            font-weight: 400;
+            color: #2d2a6e;
+        }
+    }
+    .right{
+        padding: 0 50px;
+        i{
+            font-size: 22px;
+        }
+    }
+}
+#second{
+    .all{
+        margin-top: 7rem;
+    }
+    .center{
+        h3{
+            font-size: 15px;
+            color: #00d084;
+        }
+        h1{
+            font-size: 40px;
+            color: rgb(2,3,129);
+            font-weight: bold;
+        }
+        p{
+            margin-top: 2rem;
+        }
+        button{
+            border-radius: 30px;
+            color: #fff;
+            padding: 13px 37px;
+            border: 1px solid transparent;
+            background-color: #61CE70;
+        }
+    }
+}
+#tree{
+    .all{
+        margin-top: 5rem;
+    }
+    img{
+        width: 100%;
+    }
+    .bottom{
+        h3{
+           color: #2D2A6E;
+           font-size: 25px;
+           margin-top: 1rem;
+         }
+    }
+}
+#four{
+    .top-text{
+        h3{
+            color: #00d084;
+            font-size: 20px;
+        }
+        h1{
+            font-size: 30px;
+            color: #2d2a6e;
+        }
+    }
+    .bottom-top{
+        border: 1px solid #efefef;
+        img{
+            width: 100%;
+        }
+        p{
+            margin-top: -1rem;
+        }
+    }
+}
+#five{
+    .top{
+        h5{
+            font-size: 15px;
+        }
+        span{
+            color: #00d084;
+        }
+    }
+    .all{
+        margin-top: 5rem;
+        .right{
+            h3{
+                font-size: 20px;
+                color: #61CE70;
+            }
+            h4{
+                font-size: 40px;
+                span{
+                    color:#61CE70;
+                }
+            }
+            p{
+                margin-top: 2rem;
+            }
+            h6{
+                font-size: 20px;
+                font-weight: 400;
+                span{
+                     color: red;
+                     font-weight: bold;
+                }
+            }
+            button{
+                color: #fff;
+                background-color: #2D2A6E;
+                margin-top: 2rem;
+                padding: 11px 30px;
+                border-radius: 30px;
+                border: 1px solid transparent;
+            }
+        }
+    }
+}
+#six{
+    background-image: url(https://htmlcolorcodes.com/assets/images/colors/light-green-color-solid-background-1920x1080.png);
+    width: 100%;
+    height: 300px;
+    .all{
+
+        h1{
+            color: #fff;
+        }
+        h5{
+            color: #fff;
+        }
+        
+        button{
+            padding: 13px 33px;
+            border-radius: 30px;
+            border: 1px solid transparent;
+            background-color: aquamarine;
+            color: #FFF;
+        }
+    }
+}
+#seven{
+    .box{
+        border: 1px solid #efefef;
+    }
+    .top{
+        h3{
+            color: #00d084;
+            font-size: 20px;
+        }
+        h1{
+            color: #2d2a6e;
+            font-size: 25px;
+        }
+    }
+    .left{
+        img{
+            width: 100%;
+        }
+    }
+    .right{
+        p{
+            color: #2d2a6e;
+        }
+        span{
+            color: red;
+            font-size: 20px;
+        }
+
+    }
+}
+#eight{
+    .top{
+        h3{
+            color: #00d084;
+            font-size: 20px;
+        }
+        h1{
+            color: #2d2a6e;
+            font-size: 25px;
+        }
+    }
+    .all{
+        margin-top: 5rem;
+    }
+    img{
+        width: 100%;
+    }
+    .bottom{
+        h3{
+           color: #2D2A6E;
+           font-size: 25px;
+           margin-top: 1rem;
+         }
+    }
+}
+#son{
+    background-color: #2d2a6e;
+    width: 100%;
+    padding: 7rem;
+    .top{
+        i{
+            font-size: 15px;
+            color: #fff;
+        }
+        h4{
+            font-size: 15px;
+            color: #fff;
+        }
+        p{
+            font-size: 15px;
+            color: #fff;
+        }
+    }
+    .center{
+        h2{
+            color: #fff;
+            font-size: 20px;
+        }
+        a{
+            text-decoration: none;
+            color: #FFF;
+        }
+        p{
+            color: #FFF;
+            margin-top: 2rem;
+        }
+        i{
+            background-color: #fff;
+            font-size: 25px;
+        }
+    }
+}
+

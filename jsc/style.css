@@ -1,0 +1,249 @@
+#first .center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#first .center a {
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 400;
+  color: #2d2a6e;
+}
+
+#first .right {
+  padding: 0 50px;
+}
+
+#first .right i {
+  font-size: 22px;
+}
+
+#second .all {
+  margin-top: 7rem;
+}
+
+#second .center h3 {
+  font-size: 15px;
+  color: #00d084;
+}
+
+#second .center h1 {
+  font-size: 40px;
+  color: #020381;
+  font-weight: bold;
+}
+
+#second .center p {
+  margin-top: 2rem;
+}
+
+#second .center button {
+  border-radius: 30px;
+  color: #fff;
+  padding: 13px 37px;
+  border: 1px solid transparent;
+  background-color: #61CE70;
+}
+
+#tree .all {
+  margin-top: 5rem;
+}
+
+#tree img {
+  width: 100%;
+}
+
+#tree .bottom h3 {
+  color: #2D2A6E;
+  font-size: 25px;
+  margin-top: 1rem;
+}
+
+#four .top-text h3 {
+  color: #00d084;
+  font-size: 20px;
+}
+
+#four .top-text h1 {
+  font-size: 30px;
+  color: #2d2a6e;
+}
+
+#four .bottom-top {
+  border: 1px solid #efefef;
+}
+
+#four .bottom-top img {
+  width: 100%;
+}
+
+#four .bottom-top p {
+  margin-top: -1rem;
+}
+
+#five .top h5 {
+  font-size: 15px;
+}
+
+#five .top span {
+  color: #00d084;
+}
+
+#five .all {
+  margin-top: 5rem;
+}
+
+#five .all .right h3 {
+  font-size: 20px;
+  color: #61CE70;
+}
+
+#five .all .right h4 {
+  font-size: 40px;
+}
+
+#five .all .right h4 span {
+  color: #61CE70;
+}
+
+#five .all .right p {
+  margin-top: 2rem;
+}
+
+#five .all .right h6 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#five .all .right h6 span {
+  color: red;
+  font-weight: bold;
+}
+
+#five .all .right button {
+  color: #fff;
+  background-color: #2D2A6E;
+  margin-top: 2rem;
+  padding: 11px 30px;
+  border-radius: 30px;
+  border: 1px solid transparent;
+}
+
+#six {
+  background-image: url(https://htmlcolorcodes.com/assets/images/colors/light-green-color-solid-background-1920x1080.png);
+  width: 100%;
+  height: 300px;
+}
+
+#six .all h1 {
+  color: #fff;
+}
+
+#six .all h5 {
+  color: #fff;
+}
+
+#six .all button {
+  padding: 13px 33px;
+  border-radius: 30px;
+  border: 1px solid transparent;
+  background-color: aquamarine;
+  color: #FFF;
+}
+
+#seven .box {
+  border: 1px solid #efefef;
+}
+
+#seven .top h3 {
+  color: #00d084;
+  font-size: 20px;
+}
+
+#seven .top h1 {
+  color: #2d2a6e;
+  font-size: 25px;
+}
+
+#seven .left img {
+  width: 100%;
+}
+
+#seven .right p {
+  color: #2d2a6e;
+}
+
+#seven .right span {
+  color: red;
+  font-size: 20px;
+}
+
+#eight .top h3 {
+  color: #00d084;
+  font-size: 20px;
+}
+
+#eight .top h1 {
+  color: #2d2a6e;
+  font-size: 25px;
+}
+
+#eight .all {
+  margin-top: 5rem;
+}
+
+#eight img {
+  width: 100%;
+}
+
+#eight .bottom h3 {
+  color: #2D2A6E;
+  font-size: 25px;
+  margin-top: 1rem;
+}
+
+#son {
+  background-color: #2d2a6e;
+  width: 100%;
+  padding: 7rem;
+}
+
+#son .top i {
+  font-size: 15px;
+  color: #fff;
+}
+
+#son .top h4 {
+  font-size: 15px;
+  color: #fff;
+}
+
+#son .top p {
+  font-size: 15px;
+  color: #fff;
+}
+
+#son .center h2 {
+  color: #fff;
+  font-size: 20px;
+}
+
+#son .center a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+#son .center p {
+  color: #FFF;
+  margin-top: 2rem;
+}
+
+#son .center i {
+  background-color: #fff;
+  font-size: 25px;
+}
+/*# sourceMappingURL=style.css.map */
